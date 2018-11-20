@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Michael Knous"
-  avatar           : "/assets/images/avator.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/avator.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another boring, bearded, homosapien, data scientist."
   location         : "Troy, New York, USA"
   email            :
@@ -290,6 +290,6 @@ defaults:
       related: true
   # assets
   - scope:
-      path: "assets/images/"
+      path: "assets/img/"
     values:
       image: true
