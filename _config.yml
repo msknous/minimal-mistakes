@@ -288,3 +288,8 @@ defaults:
       comments: # true
       share: true
       related: true
+  # assets
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
