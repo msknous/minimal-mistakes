@@ -290,6 +290,6 @@ defaults:
       related: true
   # assets
   - scope:
-      path: "assets/images"
+      path: "assets/images/"
     values:
       image: true
